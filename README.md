@@ -1,1 +1,2 @@
-# NewtonsCradle-C30
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
